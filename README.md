@@ -68,8 +68,4 @@ curl -H "Authorization: Bearer <TOKEN>" http://localhost:8081/secure/seller
 ## Notes
 - Replace `<TOKEN>` in API requests with an actual JWT token.
 - Ensure Keycloak is accessible at `http://localhost:8080`.
-- This project is for **learning purposes only** and does not include production-grade security hardening.
-
-## License
-This project is open-source and free to use for educational purposes.
 
